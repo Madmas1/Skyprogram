@@ -1,0 +1,107 @@
+2022-06-13 16:29:48,982 : werkzeug : INFO :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-13 16:29:51,892 : root : INFO : Open index page
+2022-06-13 16:29:51,901 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:29:51] "GET / HTTP/1.1" 200 -
+2022-06-13 16:29:52,018 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:29:52] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 16:29:52,019 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:29:52] "[36mGET /static/img/lens.png HTTP/1.1[0m" 304 -
+2022-06-13 16:29:52,020 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:29:52] "[36mGET /img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 16:29:52,021 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:29:52] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 16:29:52,021 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:29:52] "[36mGET /img/like.png HTTP/1.1[0m" 304 -
+2022-06-13 16:29:52,023 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:29:52] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 16:32:52,750 : dao : ERROR : Can't load JSON data from data/data.json!
+2022-06-13 16:49:59,356 : dao : ERROR : Can't load JSON data from data/data.json!
+2022-06-13 16:50:52,402 : dao : ERROR : Can't load JSON data from data/data.json!
+2022-06-13 16:52:58,204 : dao : ERROR : Can't load JSON data from data/data.json!
+2022-06-13 16:58:10,071 : dao : ERROR : Can't load JSON data from data/data.json!
+2022-06-13 16:59:13,386 : dao : ERROR : Can't load JSON data from data/data.json!
+2022-06-13 17:10:57,723 : dao : ERROR : Can't load JSON data from data/data.json!
+2022-06-13 17:11:51,513 : root : INFO : Open index page
+2022-06-13 17:26:24,243 : run : ERROR : Trying to open a page that does not exist
+2022-06-13 17:27:10,633 : root : INFO : Open leo page
+2022-06-13 17:27:14,669 : root : INFO : Open leo page
+2022-06-13 18:32:56,962 : dao : ERROR : Can't load post page № -40. Post not exists!
+2022-06-13 18:32:56,962 : dao : ERROR : Can't load post page № 40. Post not exists!
+2022-06-13 18:32:56,963 : dao : ERROR : Can't load post page № str. Post not exists!
+2022-06-13 19:21:01,405 : root : INFO : Open index page
+2022-06-13 19:23:24,634 : root : INFO : Open index page
+2022-06-13 19:34:20,452 : root : INFO : Open index page
+2022-06-13 19:35:42,922 : root : INFO : Open index page
+2022-06-13 19:38:03,814 : root : INFO : Open index page
+2022-06-13 19:38:34,499 : root : INFO : Open index page
+2022-06-13 19:39:04,008 : root : INFO : Open index page
+2022-06-13 19:41:49,480 : root : INFO : Open index page
+2022-06-13 19:42:44,515 : root : INFO : Open index page
+2022-06-13 19:44:52,845 : root : INFO : Open index page
+2022-06-13 19:50:48,938 : root : INFO : Open index page
+2022-06-13 19:53:47,512 : root : INFO : Open index page
+2022-06-13 19:56:07,191 : root : INFO : Open index page
+2022-06-13 19:56:37,184 : root : INFO : Open index page
+2022-06-13 19:56:53,011 : root : INFO : Open index page
+2022-06-13 19:57:15,332 : root : INFO : Open index page
+2022-06-13 19:59:14,325 : root : INFO : Open index page
+2022-06-13 19:59:38,605 : root : INFO : Open index page
+2022-06-13 20:02:18,064 : root : INFO : Open leo page
+2022-06-13 20:15:26,595 : post.views : INFO : Open post page №1
+2022-06-13 20:16:14,232 : dao : ERROR : Can't load 1 page. User not found!
+2022-06-13 20:16:32,401 : dao : ERROR : Can't load 1 page. User not found!
+2022-06-13 20:18:33,051 : dao : ERROR : Can't load 1 page. User not found!
+2022-06-13 20:20:04,038 : dao : ERROR : Can't load post page № leo. Post not exists!
+2022-06-13 20:20:18,200 : dao : ERROR : Can't load post page № leo. Post not exists!
+2022-06-13 20:20:40,181 : dao : ERROR : Can't load post page № leo. Post not exists!
+2022-06-13 20:22:42,448 : dao : ERROR : Can't load <poster_name> page. User not found!
+2022-06-13 20:23:10,008 : root : INFO : Open leo page
+2022-06-13 20:24:10,621 : run : ERROR : Trying to open a page that does not exist
+2022-06-13 20:24:37,457 : post.views : INFO : Open post page №1
+2022-06-13 20:26:49,364 : post.views : INFO : Open post page №1
+2022-06-13 20:33:14,477 : post.views : INFO : Open post page №1
+2022-06-13 20:34:52,681 : dao : ERROR : Can't load mike page. User not found!
+2022-06-13 20:36:53,331 : dao : ERROR : Can't load post page № -40. Post not exists!
+2022-06-13 20:36:53,331 : dao : ERROR : Can't load post page № 40. Post not exists!
+2022-06-13 20:36:53,332 : dao : ERROR : Can't load post page № str. Post not exists!
+2022-06-13 20:37:13,871 : root : INFO : Open index page
+2022-06-13 20:37:22,621 : root : INFO : Open index page
+2022-06-13 20:37:29,212 : post.views : INFO : Open post page №1
+2022-06-13 20:37:57,369 : post.views : INFO : Open post page №1
+2022-06-13 20:41:39,649 : root : INFO : Open leo page
+2022-06-13 20:41:54,745 : root : INFO : Open leo page
+2022-06-13 20:42:10,150 : post.views : INFO : Open post page №1
+2022-06-13 20:42:41,723 : post.views : INFO : Open post page №1
+2022-06-13 20:46:04,828 : post.views : INFO : Open post page №1
+2022-06-13 20:46:25,902 : post.views : INFO : Open post page №1
+2022-06-13 20:48:44,948 : post.views : INFO : Open post page №1
+2022-06-13 20:50:11,704 : post.views : INFO : Open post page №1
+2022-06-13 20:50:22,702 : post.views : INFO : Open post page №1
+2022-06-13 20:50:31,667 : post.views : INFO : Open post page №1
+2022-06-13 20:51:43,474 : post.views : INFO : Open post page №1
+2022-06-13 20:52:15,601 : post.views : INFO : Open post page №1
+2022-06-13 20:52:37,672 : post.views : INFO : Open post page №1
+2022-06-13 20:52:38,994 : post.views : INFO : Open post page №1
+2022-06-13 20:54:29,834 : post.views : INFO : Open post page №1
+2022-06-13 20:55:04,074 : post.views : INFO : Open post page №1
+2022-06-13 20:55:26,223 : post.views : INFO : Open post page №1
+2022-06-13 20:56:13,309 : post.views : INFO : Open post page №1
+2022-06-13 20:58:52,278 : post.views : INFO : Open post page №1
+2022-06-13 21:00:21,295 : post.views : INFO : Open post page №1
+2022-06-13 21:00:54,977 : post.views : INFO : Open post page №1
+2022-06-13 21:01:28,088 : post.views : INFO : Open post page №1
+2022-06-13 21:03:49,972 : post.views : INFO : Open post page №1
+2022-06-13 21:04:07,092 : post.views : INFO : Open post page №1
+2022-06-13 21:08:55,144 : post.views : INFO : Open post page №1
+2022-06-13 21:18:41,042 : search.views : INFO : Search by keyword /еда
+2022-06-13 21:20:16,637 : search.views : INFO : Search by keyword /еда
+2022-06-13 21:20:23,590 : search.views : INFO : Search by keyword /еда
+2022-06-13 21:20:49,724 : search.views : INFO : Search by keyword еда
+2022-06-13 21:24:57,554 : search.views : INFO : Search by keyword еда
+2022-06-13 21:26:26,730 : search.views : INFO : Search by keyword еда
+2022-06-13 21:26:49,753 : root : INFO : Open index page
+2022-06-13 21:27:26,669 : root : INFO : Open leo page
+2022-06-13 21:31:47,666 : root : INFO : Open leo page
+2022-06-13 21:31:58,904 : root : INFO : Open leo page
+2022-06-13 21:32:06,898 : root : INFO : Open leo page
+2022-06-13 21:51:18,560 : root : INFO : Open leo page
+2022-06-13 21:54:42,499 : run : ERROR : Trying to open a page that does not exist
+2022-06-13 21:54:57,535 : tags.views : INFO : Open page by tag - кот
+2022-06-13 22:01:54,517 : dao : ERROR : Can't load JSON data from data/bookmarks.json!
+2022-06-13 22:03:08,665 : bookmarks.views : INFO : Open bookmarks page
+2022-06-13 23:21:11,047 : run : ERROR : Trying to open a page that does not exist
+2022-06-13 23:22:09,556 : root : INFO : API post № 1 request
+2022-06-13 23:22:12,258 : root : INFO : API posts request

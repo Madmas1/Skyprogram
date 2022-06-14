@@ -1,0 +1,179 @@
+2022-06-13 16:29:48,982 : werkzeug : INFO :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-13 16:29:51,892 : root : INFO : Open index page
+2022-06-13 16:29:51,901 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:29:51] "GET / HTTP/1.1" 200 -
+2022-06-13 16:29:52,018 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:29:52] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 16:29:52,019 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:29:52] "[36mGET /static/img/lens.png HTTP/1.1[0m" 304 -
+2022-06-13 16:29:52,020 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:29:52] "[36mGET /img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 16:29:52,021 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:29:52] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 16:29:52,021 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:29:52] "[36mGET /img/like.png HTTP/1.1[0m" 304 -
+2022-06-13 16:29:52,023 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:29:52] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 16:54:49,210 : werkzeug : INFO :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-13 16:54:52,484 : root : INFO : Open index page
+2022-06-13 16:54:52,494 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:52] "GET / HTTP/1.1" 200 -
+2022-06-13 16:54:52,618 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:52] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 16:54:52,621 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:52] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 16:54:52,622 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:52] "[36mGET /static/img/lens.png HTTP/1.1[0m" 304 -
+2022-06-13 16:54:52,623 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:52] "[36mGET /img/like.png HTTP/1.1[0m" 304 -
+2022-06-13 16:54:52,623 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:52] "[36mGET /img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 16:54:52,624 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:52] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 16:54:53,634 : post.views : INFO : Open post page №1
+2022-06-13 16:54:53,638 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:53] "GET /post/1 HTTP/1.1" 200 -
+2022-06-13 16:54:53,691 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:53] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 16:54:53,692 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:53] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 16:54:53,697 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:53] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 16:54:54,146 : root : INFO : Open leo page
+2022-06-13 16:54:54,152 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:54] "GET /user/leo HTTP/1.1" 200 -
+2022-06-13 16:54:54,201 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:54] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 16:54:54,202 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:54] "[36mGET /img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 16:54:54,202 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:54] "[36mGET /img/like.png HTTP/1.1[0m" 304 -
+2022-06-13 16:54:54,206 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:54] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 16:54:54,586 : root : INFO : Open index page
+2022-06-13 16:54:54,587 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:54] "GET / HTTP/1.1" 200 -
+2022-06-13 16:54:54,642 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:54] "[36mGET /static/img/lens.png HTTP/1.1[0m" 304 -
+2022-06-13 16:54:54,643 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:54] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 16:54:54,643 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:54] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 16:54:54,644 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:54] "[36mGET /img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 16:54:54,645 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:54] "[36mGET /img/like.png HTTP/1.1[0m" 304 -
+2022-06-13 16:54:54,648 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 16:54:54] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 16:58:07,296 : werkzeug : INFO :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-13 20:36:31,127 : werkzeug : INFO :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-13 20:36:34,170 : root : INFO : Open index page
+2022-06-13 20:36:34,178 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:34] "GET / HTTP/1.1" 200 -
+2022-06-13 20:36:34,288 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:34] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 20:36:34,289 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:34] "[36mGET /static/img/lens.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:34,290 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:34] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:34,291 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:34] "[36mGET /img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:34,291 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:34] "[36mGET /img/like.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:34,292 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:34] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:34,329 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:34] "[36mGET /static/img/sky_favicon.PNG HTTP/1.1[0m" 304 -
+2022-06-13 20:36:35,285 : post.views : INFO : Open post page №1
+2022-06-13 20:36:35,288 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:35] "GET /post/1 HTTP/1.1" 200 -
+2022-06-13 20:36:35,317 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:35] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 20:36:35,317 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:35] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:35,320 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:35] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:37,582 : root : INFO : Open index page
+2022-06-13 20:36:37,582 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:37] "GET / HTTP/1.1" 200 -
+2022-06-13 20:36:37,609 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:37] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 20:36:37,610 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:37] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:37,610 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:37] "[36mGET /static/img/lens.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:37,611 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:37] "[36mGET /img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:37,612 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:37] "[36mGET /img/like.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:37,613 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:37] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:38,143 : root : INFO : Open leo page
+2022-06-13 20:36:38,149 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:38] "GET /user/leo HTTP/1.1" 200 -
+2022-06-13 20:36:38,177 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:38] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 20:36:38,177 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:38] "[36mGET /img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:38,178 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:38] "[36mGET /img/like.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:38,180 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:38] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:39,132 : root : INFO : Open index page
+2022-06-13 20:36:39,133 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:39] "GET / HTTP/1.1" 200 -
+2022-06-13 20:36:39,166 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:39] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 20:36:39,167 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:39] "[36mGET /static/img/lens.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:39,168 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:39] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:39,169 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:39] "[36mGET /img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:39,169 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:39] "[36mGET /img/like.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:39,172 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:39] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:41,471 : post.views : INFO : Open post page №1
+2022-06-13 20:36:41,471 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:41] "GET /post/1 HTTP/1.1" 200 -
+2022-06-13 20:36:41,503 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:41] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 20:36:41,503 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:41] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:41,507 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:41] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 20:36:43,974 : dao : ERROR : Can't load post page № 40. Post not exists!
+2022-06-13 20:36:43,975 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:43] "[35m[1mGET /post/40 HTTP/1.1[0m" 500 -
+2022-06-13 20:36:44,149 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:36:44] "GET /static/img/404.gif HTTP/1.1" 200 -
+2022-06-13 20:38:00,378 : werkzeug : INFO :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-13 20:38:07,051 : post.views : INFO : Open post page №1
+2022-06-13 20:38:07,057 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:38:07] "GET /post/1 HTTP/1.1" 200 -
+2022-06-13 20:38:07,130 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:38:07] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 20:38:07,130 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:38:07] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 20:38:07,134 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:38:07] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 20:38:16,135 : werkzeug : INFO :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-13 20:40:22,975 : post.views : INFO : Open post page №1
+2022-06-13 20:40:22,992 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:40:22] "GET /post/1 HTTP/1.1" 200 -
+2022-06-13 20:40:23,078 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:40:23] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 20:40:23,079 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:40:23] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 20:40:23,080 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:40:23] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 20:40:23,090 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:40:23] "[36mGET /static/img/sky_favicon.PNG HTTP/1.1[0m" 304 -
+2022-06-13 20:40:29,088 : werkzeug : INFO :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-13 20:40:52,438 : werkzeug : INFO :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-13 20:56:46,998 : werkzeug : INFO :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-13 20:56:47,040 : root : INFO : Open index page
+2022-06-13 20:56:47,059 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:56:47] "GET / HTTP/1.1" 200 -
+2022-06-13 20:56:47,132 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:56:47] "[36mGET /static/img/lens.png HTTP/1.1[0m" 304 -
+2022-06-13 20:56:47,133 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:56:47] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 20:56:47,133 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:56:47] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 20:56:47,136 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:56:47] "[36mGET /img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 20:56:47,138 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:56:47] "[36mGET /img/like.png HTTP/1.1[0m" 304 -
+2022-06-13 20:56:47,140 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:56:47] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 20:56:47,176 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:56:47] "[36mGET /static/img/sky_favicon.PNG HTTP/1.1[0m" 304 -
+2022-06-13 20:57:08,963 : post.views : INFO : Open post page №1
+2022-06-13 20:57:08,967 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:57:08] "GET /post/1 HTTP/1.1" 200 -
+2022-06-13 20:57:08,996 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:57:08] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 20:57:08,996 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:57:08] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 20:57:09,000 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:57:09] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 20:57:30,884 : post.views : INFO : Open post page №1
+2022-06-13 20:57:30,885 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:57:30] "GET /post/1 HTTP/1.1" 200 -
+2022-06-13 20:57:30,916 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:57:30] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 20:57:30,916 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:57:30] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 20:57:30,920 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 20:57:30] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 21:17:21,978 : root : INFO : Open index page
+2022-06-13 21:17:21,978 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:17:21] "GET / HTTP/1.1" 200 -
+2022-06-13 21:17:22,011 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:17:22] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 21:17:22,011 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:17:22] "[36mGET /static/img/lens.png HTTP/1.1[0m" 304 -
+2022-06-13 21:17:22,012 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:17:22] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 21:17:22,012 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:17:22] "[36mGET /img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 21:17:22,012 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:17:22] "[36mGET /img/like.png HTTP/1.1[0m" 304 -
+2022-06-13 21:17:22,026 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:17:22] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 21:17:22,499 : search.views : INFO : Open search page
+2022-06-13 21:17:22,509 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:17:22] "GET /search HTTP/1.1" 200 -
+2022-06-13 21:17:22,538 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:17:22] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 21:17:25,901 : search.views : INFO : Search by keyword еда
+2022-06-13 21:17:25,901 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:17:25] "GET /search?s=еда HTTP/1.1" 200 -
+2022-06-13 21:17:25,931 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:17:25] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 21:17:25,931 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:17:25] "[36mGET /img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 21:17:25,932 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:17:25] "[36mGET /img/like.png HTTP/1.1[0m" 304 -
+2022-06-13 21:17:25,936 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:17:25] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 21:19:42,693 : root : INFO : Open index page
+2022-06-13 21:19:42,694 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:19:42] "GET / HTTP/1.1" 200 -
+2022-06-13 21:19:42,737 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:19:42] "[36mGET /static/img/lens.png HTTP/1.1[0m" 304 -
+2022-06-13 21:19:42,737 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:19:42] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 21:19:42,738 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:19:42] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 21:19:42,739 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:19:42] "[36mGET /img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 21:19:42,739 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:19:42] "[36mGET /img/like.png HTTP/1.1[0m" 304 -
+2022-06-13 21:19:42,744 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:19:42] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 21:19:44,071 : search.views : INFO : Open search page
+2022-06-13 21:19:44,071 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:19:44] "GET /search HTTP/1.1" 200 -
+2022-06-13 21:19:44,100 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:19:44] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 21:19:47,735 : search.views : INFO : Search by keyword еда
+2022-06-13 21:19:47,735 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:19:47] "GET /search?s=еда HTTP/1.1" 200 -
+2022-06-13 21:19:47,768 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:19:47] "[36mGET /img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 21:19:47,769 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:19:47] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 21:19:47,769 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:19:47] "[36mGET /img/like.png HTTP/1.1[0m" 304 -
+2022-06-13 21:19:47,774 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:19:47] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 21:32:33,585 : root : INFO : Open index page
+2022-06-13 21:32:33,586 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:32:33] "GET / HTTP/1.1" 200 -
+2022-06-13 21:32:33,625 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:32:33] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 21:32:33,626 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:32:33] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 21:32:33,626 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:32:33] "[36mGET /img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 21:32:33,626 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:32:33] "[36mGET /static/img/lens.png HTTP/1.1[0m" 304 -
+2022-06-13 21:32:33,627 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:32:33] "[36mGET /img/like.png HTTP/1.1[0m" 304 -
+2022-06-13 21:32:33,649 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:32:33] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 21:32:36,572 : tags.views : INFO : Open page by tag - кот
+2022-06-13 21:32:36,582 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:32:36] "GET /tags/кот HTTP/1.1" 200 -
+2022-06-13 21:32:36,618 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:32:36] "[36mGET /img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 21:32:36,618 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:32:36] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 21:32:36,619 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:32:36] "[36mGET /img/like.png HTTP/1.1[0m" 304 -
+2022-06-13 21:32:36,622 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 21:32:36] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 23:21:59,703 : root : INFO : API post № 1 request
+2022-06-13 23:21:59,703 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 23:21:59] "GET /API/posts/1 HTTP/1.1" 200 -
+2022-06-13 23:46:03,888 : root : INFO : Open index page
+2022-06-13 23:46:03,888 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 23:46:03] "GET / HTTP/1.1" 200 -
+2022-06-13 23:46:03,921 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 23:46:03] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-06-13 23:46:03,921 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 23:46:03] "[36mGET /static/img/lens.png HTTP/1.1[0m" 304 -
+2022-06-13 23:46:03,922 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 23:46:03] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 23:46:03,922 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 23:46:03] "[36mGET /img/eye.png HTTP/1.1[0m" 304 -
+2022-06-13 23:46:03,922 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 23:46:03] "[36mGET /img/like.png HTTP/1.1[0m" 304 -
+2022-06-13 23:46:03,929 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 23:46:03] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-06-13 23:46:04,860 : search.views : INFO : Open search page
+2022-06-13 23:46:04,861 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 23:46:04] "GET /search HTTP/1.1" 200 -
+2022-06-13 23:46:04,899 : werkzeug : INFO : 127.0.0.1 - - [13/Jun/2022 23:46:04] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -

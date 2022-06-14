@@ -1,0 +1,19 @@
+2022-06-13 20:36:43,974 - [ERROR] - dao - Can't load post page ¹ 40. Post not exists!
+2022-06-14 16:20:08,388 - [ERROR] - run - Exception on / [GET]
+Traceback (most recent call last):
+  File "F:\MyPython\flaskProject\venv\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "F:\MyPython\flaskProject\venv\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "F:\MyPython\flaskProject\venv\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "F:\MyPython\flaskProject\venv\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "F:\MyPython\flaskProject\index\views.py", line 33, in render_index_page
+    loggger.info("Open index page")
+NameError: name 'loggger' is not defined
+2022-06-14 16:20:08,395 - [ERROR] - run - The server was unable to process the request
+2022-06-14 16:20:08,473 - [ERROR] - run - Trying to open a page that does not exist
+2022-06-14 16:20:58,281 - [ERROR] - run - Trying to open a page that does not exist
+2022-06-14 16:21:06,226 - [ERROR] - run - Trying to open a page that does not exist
+2022-06-14 16:22:13,534 - [ERROR] - run - Trying to open a page that does not exist
