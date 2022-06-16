@@ -42,7 +42,7 @@ def static_img_dir(path):
 def static_css_dir(path):
     return send_from_directory("static/css", path)
 
-# Обработкчики ошибок
+# Обработчики ошибок
 @app.errorhandler(404)
 def code_404(error):
     logger.error("Trying to open a page that does not exist")
